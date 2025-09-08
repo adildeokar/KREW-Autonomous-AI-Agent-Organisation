@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 
 # --- Page Configuration ---
 st.set_page_config(
-    page_title="Krew By Adil and Azhaan  🤖",
+    page_title="Krew By DevKnightClub  🤖",
     page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded",
