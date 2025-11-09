@@ -1,0 +1,84 @@
+CUSTOM PROTOTYPE LICENSE AGREEMENT  
+Version 1.0 – January 2025  
+
+Copyright (c) 2025  
+Original Author: **Adil Deokar**  
+Commercial IP Owner: **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**  
+
+----------------------------------------------
+1. DEFINITIONS
+----------------------------------------------
+"Prototype" refers to the source code, files, architecture, and logic contained in this repository.
+
+"Commercial Version" refers to the production-grade, closed-source software owned, developed, distributed, and licensed exclusively by **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**, which is not included in this repository.
+
+"Company" refers to **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**, the exclusive owner of the commercial rights, trademarks, brand assets, and monetizable version of the software project known as **Krew**.
+
+"Author" refers to **Adil Deokar**, the original creator and primary developer (99% contribution) of the prototype software.
+
+----------------------------------------------
+2. LICENSE SCOPE (WHAT YOU MAY DO)
+----------------------------------------------
+You are permitted to:
+
+✅ View, study, and modify the prototype code  
+✅ Fork this repository for **personal, academic, or research purposes**  
+✅ Use the prototype for **non-commercial experimentation**  
+✅ Build derivative educational projects, provided proper attribution is included  
+
+----------------------------------------------
+3. RESTRICTIONS (WHAT YOU MAY NOT DO)
+----------------------------------------------
+You are **NOT** permitted to:
+
+❌ Use this prototype in any commercial product, SaaS platform, business workflow, or monetized service  
+❌ Sell, sublicense, rent, host, or license this prototype or any derivative as a paid product  
+❌ Use the name **Krew** or any branding associated with it for commercial distribution  
+❌ Claim authorship, remove attribution, or rewrite history to conceal creation by **Adil Deokar**  
+❌ Represent this prototype as the commercial version owned by **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**  
+❌ Publish this code under a different license that allows commercial use  
+
+----------------------------------------------
+4. OWNERSHIP & INTELLECTUAL PROPERTY
+----------------------------------------------
+- The prototype was authored and engineered primarily by **Adil Deokar**, who retains creative credit in perpetuity.  
+- **All commercial, trademark, branding, resale, and SaaS deployment rights** to the software known as **Krew** have been legally transferred to and are exclusively owned by:
+
+> **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**  
+> CIN: (to be added by company)  
+> Registered in India  
+
+- This prototype remains open-source ONLY under the terms defined in this license.  
+- Any attempt to commercialize this prototype violates copyright law.  
+
+----------------------------------------------
+5. TRADEMARK & BRAND PROTECTION
+----------------------------------------------
+The name **"Krew"**, associated logos, UI identity, slogans, and commercial product versions are protected assets of **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**.
+
+You may not use the project name, brand identity, or visual assets for any commercial or public-facing product.
+
+----------------------------------------------
+6. LIABILITY & WARRANTY
+----------------------------------------------
+This prototype is provided **"AS IS"**, without warranty of any kind.  
+The author and the company are **NOT** liable for damages, misuse, data loss, or unintended consequences caused by use of this prototype.
+
+----------------------------------------------
+7. COMMERCIAL USE REQUESTS
+----------------------------------------------
+If you wish to use Krew in ANY commercial, enterprise, SaaS, paid, or licensed capacity, you must obtain written authorization from:
+
+> **DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED**  
+> Email: contact@devknight.in  
+
+----------------------------------------------
+8. ACCEPTANCE
+----------------------------------------------
+By cloning, forking, downloading, modifying, or using this repository, you agree to all terms in this license.
+
+If you do not agree, you must delete all copies and cease usage immediately.
+
+----------------------------------------------
+END OF LICENSE
+----------------------------------------------
