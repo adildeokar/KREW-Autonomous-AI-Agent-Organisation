@@ -12,7 +12,7 @@ Instead of a single chatbot producing a response, Krew coordinates **multiple ro
 Krew is built for tasks such as:
 - Research & analysis  
 - Technical report generation  
-- Business planning / strategy synthesis  
+- Business planning / strategy synthesis.  
 - Document interpretation and summarization  
 - AI-assisted content creation  
 - Multi-file data extraction + collaborative reasoning  
