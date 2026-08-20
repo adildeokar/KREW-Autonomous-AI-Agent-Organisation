@@ -1,7 +1,7 @@
 
 # Krew – Autonomous Multi-Agent AI Organization Platform
 > **Prototype Repository (Open Source) — Final Commercial Version Owned by DevKnight (DKCDEVKNIGHT TECHNOLOGIES PRIVATE LIMITED)**  
-> **Original Author & Developer: Adil Deokar**
+> **Original Author & Developer: Adil Deokar**.
 
 ---
 
